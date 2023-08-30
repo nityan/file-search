@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "path=C:\\temp ext=txt term=hello"
+    }
+  }
+}
