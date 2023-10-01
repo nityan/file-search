@@ -1,8 +1,8 @@
 ﻿namespace FileSearch.Attributes
 {
-    /// <summary>
-    /// Represents a parameter attribute.
-    /// </summary>
+	/// <summary>
+	/// Represents a parameter attribute.
+	/// </summary>
 	internal class ParameterAttribute : Attribute
     {
         /// <summary>

@@ -2,9 +2,9 @@
 
 namespace FileSearch.Model
 {
-    /// <summary>
-    /// Represents a parameter.
-    /// </summary>
+	/// <summary>
+	/// Represents a parameter.
+	/// </summary>
 	internal class Parameters
     {
         /// <summary>
